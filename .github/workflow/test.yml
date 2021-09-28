@@ -1,4 +1,4 @@
-name: Synk analyzer
+name: Synk analyzerr
 on: push
 jobs:
   security:
